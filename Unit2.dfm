@@ -30,5 +30,6 @@ object Form2: TForm2
     Lines.Strings = (
       'memo')
     TabOrder = 1
+    OnDblClick = memoDblClick
   end
 end

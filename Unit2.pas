@@ -11,6 +11,7 @@ type
     Button1: TButton;
     memo: TMemo;
     procedure Button1Click(Sender: TObject);
+    procedure memoDblClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -67,5 +68,12 @@ begin
 
 
 end;
+
+procedure TForm2.memoDblClick(Sender: TObject);
+begin
+        showmessage('hello world')
+end;
+
+
 
 end.
