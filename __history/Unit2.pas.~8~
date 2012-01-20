@@ -41,7 +41,7 @@ begin
   obj.Add('foo');
   obj.AddElement((TJSONArray.Create(TJsonNumber.Create(22))));
   (obj.Get(5) as TJSONArray).Add('carlos adrian');
-//se agrego funcionalidad
+
   //showmessage(obj.ToString);
 
   //('{"a":1}' as TJsonObject)
