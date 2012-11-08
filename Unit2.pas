@@ -74,6 +74,11 @@ begin
         showmessage('hello world');
         showmessage('hello world2');
 		showmessage('hello world3');
+		showmessage('hello world4');
+		
+		showmessage('hello world5');
+		showmessage('hello world6');
+		
 end;
 
 
