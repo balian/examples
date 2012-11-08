@@ -79,6 +79,8 @@ begin
 		showmessage('hello world5');
 		showmessage('hello world6');
 		
+		showmessage('hello world7');
+		
 end;
 
 
