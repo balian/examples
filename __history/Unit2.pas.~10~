@@ -71,9 +71,7 @@ end;
 
 procedure TForm2.memoDblClick(Sender: TObject);
 begin
-        showmessage('hello world');
-        showmessage('hello world2');
-		showmessage('hello world3');
+        showmessage('hello world')
 end;
 
 
